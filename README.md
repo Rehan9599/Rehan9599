@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @Rehan9599 
-- 👀 I’m interested in learning new programming skills
-- 🌱 I’m currently learning C++ , C..
-- 💞️ I’m looking to collaborate on coding projects
-- 📫 email me at fazalrehan091@gmail.com
-- 😄 Pronouns: his/him/he
+## Hey, I'm Rehan 👋
+**Full-Stack Developer · CS @ Jamia Millia Islamia '28 · Delhi**
 
+> I build full-stack web apps with the MERN stack — from DB schema to deployed product.  
+> Currently competing in **BAH 2026 (ISRO)** and expanding into Machine Learning (B.Tech Honours).
 
-<!---
-Rehan9599/Rehan9599 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🔨 What I'm working on
+- **BAH 2026** — Cross-modal satellite image retrieval · ISRO Hackathon
+- **ReadyCool** — Privacy-first commercial refrigeration marketplace (live)
+- **ML Honours** — Building foundational ML depth alongside full-stack work
+
+---
+
+### 🛠 Tech stack
+`React.js` `Node.js` `Express.js` `MongoDB` `MySQL` `PostgreSQL`  
+`JWT` `REST APIs` `Vite` `Vercel` `Render` `Aiven` `Git`
+
+---
+
+### 📦 Featured projects
+| Project | Stack | Status |
+|---|---|---|
+| [ReadyCool (SIRS Z)](github-link) | React · Node · MySQL · Aiven | 🟢 Live |
+| [DormEngine](github-link) | MERN · JWT · Multer | 🟢 Live |
+| [Pizza Bite](github-link) | HTML · CSS · JS | 🟢 Live |
+| [KeeperApp](github-link) | React · MUI | ⚪ Portfolio |
+
+---
+
+### 📫 Reach me
+fazalrehan091@gmail.com · [LinkedIn](linkedin-link) · [Portfolio](portfolio-link)  
+**Open to freelance engagements and internship opportunities.**
