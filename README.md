@@ -1,5 +1,4 @@
 # Hey there! 👋 I'm Rehan Fazal
-
 <div align="center">
 
 **Full-Stack Developer** | Building production-grade web applications  
@@ -9,7 +8,7 @@
 
 ---
 
-## 🛠️ Languages • Frameworks • Tools
+## Languages • Frameworks • Tools
 
 <div align="center">
 
@@ -37,7 +36,7 @@
 
 ---
 
-## 📊 My GitHub Stats
+## My GitHub Stats
 
 <div align="center">
 
@@ -49,12 +48,12 @@
 
 ---
 
-## 📬 Get In Touch
+## Get In Touch
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazalrehan091@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/rehan-fazal-09425532a/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-CC2200?style=for-the-badge&logo=vercel&logoColor=white)](your-portfolio-url)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rehan9599)
 
